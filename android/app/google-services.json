@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183894934184",
+    "firebase_url": "https://servicos-itinerantes-default-rtdb.firebaseio.com",
+    "project_id": "servicos-itinerantes",
+    "storage_bucket": "servicos-itinerantes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183894934184:android:5468017a1b04833d09389d",
+        "android_client_info": {
+          "package_name": "com.example.appprojetoitinerante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183894934184-rh5lfu43ehsr2d8fa7apf2jr04a4vg0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDxpslCjSnHU2puTEY6Ct6sXMR4LvJ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183894934184-rh5lfu43ehsr2d8fa7apf2jr04a4vg0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183894934184-169hp38scecfq2vs4hu3evbde6mdkj11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appprojetoitinerante"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
